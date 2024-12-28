@@ -1,0 +1,12 @@
+.div-couleur-verte {
+    background-color: green;
+    font-size: xx-large;
+    width: fit-content;
+}
+
+.div-couleur-rouge {
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: xx-large;
+    font-weight: bold;
+}
